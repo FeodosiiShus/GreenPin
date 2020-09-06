@@ -1,0 +1,1 @@
+web: gunicorn GreenPin.wsgi --log-file -
